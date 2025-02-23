@@ -2,14 +2,14 @@
     "Karten": [
         {
             "title": "Medio-PC-Karte",
-            "image": "https://files.catbox.moe/3winuo.jpg",
+            "image": "https://files.catbox.moe/blgs6g.jpg",
             "price": "5€",
             "shipping": "1-2 Tag/e",
             "av": "5 Stück"
         },
         {
             "title": "<span style='color: red;'>Rote Karte</span>",
-            "image": "https://files.catbox.moe/jvoll0.jpg",
+            "image": "https://files.catbox.moe/d3tapf.jpg",
             "price": "2,50€",
             "shipping": "1-2 Tag/e",
             "av": "Nicht Verfügbar"
@@ -17,7 +17,7 @@
         },
         {
             "title": "<span style='color: green;'>Grüne Karte</span>",
-            "image": "https://files.catbox.moe/w486et.jpg",
+            "image": "https://files.catbox.moe/4ikq1d.jpg",
             "price": "2,50€",
             "shipping": "1-2 Tag/e",
             "av": "Nicht Verfügbar"
@@ -25,7 +25,7 @@
         },
         {
             "title": "<span style='color: yellow;'>Gelbe Karte</span>",
-            "image": "https://files.catbox.moe/c9z279.jpg",
+            "image": "https://files.catbox.moe/64hzh8.jpg",
             "price": "2,50€",
             "shipping": "1-2 Tag/e",
             "av": "Nicht Verfügbar"
@@ -33,7 +33,7 @@
         },
         {
             "title": "<span style='color: pink;'>Handy Karte</span>",
-            "image": "https://files.catbox.moe/s1v5it.jpg",
+            "image": "https://files.catbox.moe/gho5c2.jpg",
             "price": "2,50€",
             "shipping": "1-2 Tag/e",
             "av": "Nicht Verfügbar"
