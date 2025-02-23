@@ -1,0 +1,54 @@
+{
+    "Karten": [
+        {
+            "title": "Medio-PC-Karte",
+            "image": "https://files.catbox.moe/3winuo.jpg",
+            "price": "5€",
+            "shipping": "1-2 Tag/e",
+            "av": "5 Stück"
+        },
+        {
+            "title": "<span style='color: red;'>Rote Karte</span>",
+            "image": "https://files.catbox.moe/jvoll0.jpg",
+            "price": "2,50€",
+            "shipping": "1-2 Tag/e",
+            "av": "Nicht Verfügbar"
+
+        },
+        {
+            "title": "<span style='color: green;'>Grüne Karte</span>",
+            "image": "https://files.catbox.moe/w486et.jpg",
+            "price": "2,50€",
+            "shipping": "1-2 Tag/e",
+            "av": "Nicht Verfügbar"
+
+        },
+        {
+            "title": "<span style='color: yellow;'>Gelbe Karte</span>",
+            "image": "https://files.catbox.moe/c9z279.jpg",
+            "price": "2,50€",
+            "shipping": "1-2 Tag/e",
+            "av": "Nicht Verfügbar"
+
+        },
+        {
+            "title": "<span style='color: pink;'>Handy Karte</span>",
+            "image": "https://files.catbox.moe/s1v5it.jpg",
+            "price": "2,50€",
+            "shipping": "1-2 Tag/e",
+            "av": "Nicht Verfügbar"
+
+        }
+    ],
+    "Hacking": [
+        {
+            "title": "Krankmelden",
+            "image": "https://files.catbox.moe/7rpxqi.jpg",
+            "price": "5€",
+            "shipping": "0-1 Tag/e",
+            "av": "Nicht Verfügbar"
+
+        }
+
+    ]
+}
